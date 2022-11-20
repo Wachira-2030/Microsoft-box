@@ -57,3 +57,6 @@ The data I have used has the following set of information about movies:
 
 ## Repository Guide.
 - The data sets used [IMDB](https://www.imdb.com/) and [The Numbers Data Set](https://www.the-numbers.com/).
+- The Notebook containing this project [here](https://github.com/Lucille-Wanjiku-Njuguna/Microsoft-box/blob/main/Microsoft%20box%20Notebook.ipynb).
+- The pdf presentation for this project [here](https://github.com/Lucille-Wanjiku-Njuguna/Microsoft-box/blob/main/microsoftboxpresentation.pdf).
+- The link to presentation for this presentation[here](https://www.canva.com/design/DAFSbC1U1fk/3T6InSlkec2ZeqknRCdKFg/view?utm_content=DAFSbC1U1fk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
