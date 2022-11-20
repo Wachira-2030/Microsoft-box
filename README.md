@@ -56,4 +56,4 @@ The data I have used has the following set of information about movies:
 
 
 ## Repository Guide.
-- The data sets used [IMDB]((https://www.imdb.com/)
+- The data sets used [IMDB](https://www.imdb.com/)
