@@ -37,9 +37,7 @@ The data I have used has the following set of information about movies:
 
 ## Evaluation 
 
-![Microsoft Box Presentationgraph](https://user-images.githubusercontent.com/117109653/202899944-5c17e36d-e560-4d37-97b8-12342d616ecc.png)
-
-
+![Microsoft Box Presentation genres](https://user-images.githubusercontent.com/117109653/202899992-1c675b53-6dba-4296-8ba9-304036448009.png)
 
 
 
