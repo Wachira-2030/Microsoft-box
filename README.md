@@ -39,3 +39,17 @@ The data I have used has the following set of information about movies:
 ![Microsoft Box Presentationgraph](https://user-images.githubusercontent.com/117109653/202891651-3545c453-2251-499f-9c01-c8e73d4c5e8f.png)
 
 
+## Conclusions.
+
+- Drama genre is the most watched genre.
+- However,Comedy genre has the best rating in comparison to all the other genres.
+- The best perfoming genres in terms of ratings are: Comedy,Action/Adventure/Sci- Fi,Drama/War,Drama/Thriller,Biography/Drama/Sport respectively.
+- The better the rating the more the gross on the movie.
+- The length of a movie does not affect the movie's rating.
+- The average length of a movie is 95 minutes.
+
+
+## Recommendations.
+- Microsoft Box should put their main focus on producing: Comedy,Action/Adventure/Sci- Fi,Drama/War,Drama/Thriller,Biography/Drama/Sport.
+- I would recommend they produce movies of an average of 95 minutes.
+- Microsoft box should apply language dubbing on their movies so that they can share their movies worldwide.
