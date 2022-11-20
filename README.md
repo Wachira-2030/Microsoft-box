@@ -36,14 +36,18 @@ The data I have used has the following set of information about movies:
 ![Microsoft Box Presentation](https://user-images.githubusercontent.com/117109653/202891574-dd69d406-9fad-44be-92d0-898e5bb3d8b7.png)
 
 ## Evaluation 
-![Microsoft Box Presentationgraph](https://user-images.githubusercontent.com/117109653/202891651-3545c453-2251-499f-9c01-c8e73d4c5e8f.png)
+
+![Microsoft Box Presentationgraph](https://user-images.githubusercontent.com/117109653/202899944-5c17e36d-e560-4d37-97b8-12342d616ecc.png)
+
+
+
 
 
 ## Conclusions.
 
 - Drama genre is the most watched genre.
 - However,Comedy genre has the best rating in comparison to all the other genres.
-- The best perfoming genres in terms of ratings are: Comedy,Action/Adventure/Sci- Fi,Drama/War,Drama/Thriller,Biography/Drama/Sport respectively.
+- The best perfoming genres in terms of ratings are: Comedy,Action/Adventure/Sci- Fi,Drama/War,Drama/Thriller,Biography/Drama/Sport.
 - The better the rating the more the gross on the movie.
 - The length of a movie does not affect the movie's rating.
 - The average length of a movie is 95 minutes.
