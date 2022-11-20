@@ -35,5 +35,7 @@ The data I have used has the following set of information about movies:
 ## The Project Process
 ![Microsoft Box Presentation](https://user-images.githubusercontent.com/117109653/202891574-dd69d406-9fad-44be-92d0-898e5bb3d8b7.png)
 
+## Evaluation 
+![Microsoft Box Presentationgraph](https://user-images.githubusercontent.com/117109653/202891651-3545c453-2251-499f-9c01-c8e73d4c5e8f.png)
 
 
