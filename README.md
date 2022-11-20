@@ -30,3 +30,10 @@ The data I have used has the following set of information about movies:
 - production_budget : Cost of making a movie.
 - domestic_gross : Gross made per movie in the United States.
 - worldwide_gross : Gross made per movie worldwide.
+
+
+## The Project Process
+![Microsoft Box Presentation](https://user-images.githubusercontent.com/117109653/202891574-dd69d406-9fad-44be-92d0-898e5bb3d8b7.png)
+
+
+
