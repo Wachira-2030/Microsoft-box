@@ -53,3 +53,8 @@ The data I have used has the following set of information about movies:
 - Microsoft Box should put their main focus on producing: Comedy,Action/Adventure/Sci- Fi,Drama/War,Drama/Thriller,Biography/Drama/Sport.
 - I would recommend they produce movies of an average of 95 minutes.
 - Microsoft box should apply language dubbing on their movies so that they can share their movies worldwide.
+
+
+## Repository Guide.
+- The data sets used [IMDB]([
+](https://www.imdb.com/)
