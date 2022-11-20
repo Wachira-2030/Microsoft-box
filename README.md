@@ -16,3 +16,17 @@ In terms of revenue, movies dominated the market with a share of 55.4% in 2021. 
 - Translating the findings into actionable insights.
 
 - Advise the client on the best strategy.
+
+
+## Data Understanding
+
+The dataset used for this anaysis was acquired from IMDB and The Numbers.The data to be used has three sets:movie_basics,movie_ratings and the numbers data set data frame.
+
+The data I have used has the following set of information about movies:
+
+- runtime_minutes : Shows the length of a movie.
+- genres : Shows the genre of a movie.
+- averagerating : The rating of a movie.
+- production_budget : Cost of making a movie.
+- domestic_gross : Gross made per movie in the United States.
+- worldwide_gross : Gross made per movie worldwide.
